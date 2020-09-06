@@ -3,5 +3,5 @@
 收藏日常用的文件，提供下载。
 
 ## About
-- Email: cug_xia@foxmail.com
+- Email: cug_xia@gmail.com
 - Blog: https://blog.cuger.cn
